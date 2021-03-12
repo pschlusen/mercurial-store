@@ -16,5 +16,8 @@
     "gutil-color-log": "^1.0.2",
     "node-emoji": "^1.10.0",
     "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "yargs": "^16.2.0"
   }
 }

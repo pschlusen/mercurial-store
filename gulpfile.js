@@ -6,7 +6,7 @@ var path = require('path')
 var fs = require('fs');
 var emoji = require('node-emoji')
 var argv = require('yargs').argv
-const {CMSHandler} = require('./app')
+const {CMSHandler} = require('./CMSHandler')
 
 
 const MODIFIED_PATH = __dirname + process.env.MODIFIED_PATH
