@@ -1,6 +1,6 @@
 # Mercurial Store 
 
-uma aplicação que permite que seu código local seja subido para a plataforme LINX/CORE após modificado
+An application that allows your local code to be uploaded to the LINX / CORE platform after being modified
 
 ## Quick Start
 - run `npm install` then `npm start`
